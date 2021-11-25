@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\FunToGraph\FunToGraph\bin\Debug\FunToGraph.exe.config
+C:\Users\user\Desktop\FunToGraph\FunToGraph\bin\Debug\FunToGraph.exe
+C:\Users\user\Desktop\FunToGraph\FunToGraph\bin\Debug\FunToGraph.pdb
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.csprojAssemblyReference.cache
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.Form1.resources
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.Properties.Resources.resources
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.csproj.GenerateResource.cache
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.exe
+C:\Users\user\Desktop\FunToGraph\FunToGraph\obj\Debug\FunToGraph.pdb
